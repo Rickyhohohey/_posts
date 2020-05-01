@@ -2,8 +2,7 @@
 abbrlink: c1b66ab
 ---
 > 原文链接：
-[路人自由稿～伊坂专访实录
-](https://www.weibo.com/ttarticle/p/show?id=2309404013105045703027)
+[如果未来能拯救现在～《PK》出版之际作者访谈](https://tieba.baidu.com/p/3664897455)
 &nbsp;
 转载自贴吧，如需二次转载请自行联系原作者微博@千千緑葉。
 
