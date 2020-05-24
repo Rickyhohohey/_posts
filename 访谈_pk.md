@@ -10,7 +10,7 @@ excerpt: >-
   2012年2月，单行本《PK》出版发行之际，讲谈社月刊小册子「IN★POCKET」
   上发表的作者访谈。发现可以作为作者对这本书的的导读。所以，看不懂这本书的，或者看完以后有不完全消化感的，或者已经答案在手的，都来看看作者怎么说吧。
 abbrlink: 8d597c
-thumbnail: http://q9ak6aibi.bkt.clouddn.com/PK.jpg
+thumbnail: https://s1.ax1x.com/2020/05/24/Yz46XV.jpg
 ---
 > 原文链接：
 [如果未来能拯救现在～《PK》出版之际作者访谈](https://tieba.baidu.com/p/3664897455)
